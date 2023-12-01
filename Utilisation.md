@@ -10,7 +10,10 @@
 |A0| Girouette| Signal de la girouette TI1|
 |A1| Girouette| Signal de la girouette TI2|
 |B1| Batterie| Voie 9 de l'ADC1 --> Récupération de la tension|
-
+|PC5| Xbee||
+|PC6| Xbee||
+|PC8| Xbee||
+|PD8| Xbee||
 
 ## Récapitulatif de l'utilisation des éléments internes
 
