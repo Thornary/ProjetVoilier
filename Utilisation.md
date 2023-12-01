@@ -1,5 +1,6 @@
 ## Récapitulatif de l'utilisation des pins de la nucléo
 
+
 | Pin utilisée | Element | Description |
 |---|---|---|
 |B5|Moteur| Sens de rotation du moteur avec le GPIOB 5|
@@ -12,6 +13,7 @@
 
 
 ## Récapitulatif de l'utilisation des éléments internes
+
 
 | Element | Permanent | Description |
 |---|---|---|
