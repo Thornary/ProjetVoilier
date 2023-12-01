@@ -1,4 +1,4 @@
-# Récapitulatif de l'utilisation des pins de la nucléo
+## Récapitulatif de l'utilisation des pins de la nucléo
 
 | Pin utilisée | Element | Description |
 |---|---|---|
@@ -11,10 +11,10 @@
 |B1| Batterie| Voie 9 de l'ADC1 --> Récupération de la tension|
 
 
-# Récapitulatif de l'utilisation des éléments internes
+## Récapitulatif de l'utilisation des éléments internes
 
-| Element | Description |
+| Element | Permanent | Description |
 |---|---|---|
-|ADC1| Utilisation pour la tension de la batterie|
-|TIM2| Utilisation pour le calcul de l'angle de la girouette|
-|
+|ADC1| Oui | Utilisation pour la tension de la batterie|
+|TIM2| Oui |Utilisation pour le calcul de l'angle de la girouette|
+|TIM4| Non | Utilisation pour la PWM du bordage des voiles|
