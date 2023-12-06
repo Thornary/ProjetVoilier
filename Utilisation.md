@@ -15,7 +15,7 @@
 |A5|Roulis|SPI SCK|
 |A6|Roulis|SPI MISO|
 |A7|Roulis|SPI MOSI|
-|A8|Roulis|SPI CS|
+|B6|Roulis|SPI CS|
 
 
 ## Récapitulatif de l'utilisation des éléments internes
