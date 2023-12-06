@@ -12,6 +12,10 @@
 |B1| Batterie| Voie 9 de l'ADC1 --> Récupération de la tension|
 |PA9| Xbee|Emission USART1|
 |PA10| Xbee|Reception USART1|
+|A5|Roulis|SPI SCK|
+|A6|Roulis|SPI MISO|
+|A7|Roulis|SPI MOSI|
+|A8|Roulis|SPI CS|
 
 
 ## Récapitulatif de l'utilisation des éléments internes
