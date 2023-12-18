@@ -1,13 +1,20 @@
 # ProjetVoilier
 
-## Fonctionnement automatique d'une maquette d'un voilier
+## Introduction
 
-. Bordage automatique des voiles
+Notre avons programmé une carte NUCLEO-F103RB embarquée sur une maquette de voilier afin de simplifier le pilotage du bateau.
 
-. Orientation du voilier, via le cap
+## Fonctionnalités implémentées sur la maquette
+
+. Bordage automatique des voiles, via le cap
+
+. Orientation du voilier
 
 . Système anti-chavirement
 
-. Transmissions d'informations 
+. Transmission d'informations (allure, batterie faible et chavirement)
 
 . Transmission de l'heure
+
+## Détails des fonctions implémentées 
+### 
